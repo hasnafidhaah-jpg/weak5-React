@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+
+.card {
+  background-color: white;
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 15px;
+  
+}
+
+.card h1{
+  color: black;
+}
+.card img {
+  border-radius: 50%;
+}
+
+.card button {
+  background-color: blue;
+  color: rgb(238, 230, 230);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.footer {
+  margin-top: 20px;
+  color: gray;
+}
